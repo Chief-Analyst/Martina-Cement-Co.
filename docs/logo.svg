@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 72" role="img" aria-label="Martina Cement Plc">
+  <title>Martina Cement Plc</title>
+  <g transform="translate(4,4)">
+    <polygon points="32,2.5 58,17.5 58,46.5 32,61.5 6,46.5 6,17.5" fill="#0E5E6F"/>
+    <path d="M19.5 44V24.5l12.5 12 12.5-12V44" fill="none" stroke="#FFFFFF" stroke-width="5.6" stroke-linecap="butt" stroke-linejoin="round"/>
+    <circle cx="32" cy="17.2" r="4.1" fill="#F2A541"/>
+    <rect x="19.5" y="48.2" width="25" height="3" rx="1.5" fill="#F2A541"/>
+  </g>
+  <text x="80" y="40" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="3" fill="#0B2E3B">MARTINA</text>
+  <text x="81" y="60" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="6.2" fill="#0E5E6F">CEMENT PLC</text>
+</svg>
